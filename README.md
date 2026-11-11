@@ -1,8 +1,6 @@
 # Traffic Sign Recognition (MATLAB)
 
 Detects a red traffic sign in a photo and recognizes its type (stop, yield, no entry, ...).
-Final project for the Digital Image Processing course.
-
 [فارسی](README.fa.md)
 
 ## How it works
